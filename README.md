@@ -1,4 +1,4 @@
-# My first ever blog
+# My first ever blog (shresgav.netlify.app)
 
 I made this website! Building the website was simple enough. At University of Michigan I learned how to write back end with Flask, so I decided to expand my repertoire and give Django a try. Comparing the two, I prefer Django over Flask for a few reasons. The ready-to-use admin framework really sped up development for this website, and django-summernote is the perfect little addon for blogs like this as well. 
 
